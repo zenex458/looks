@@ -1,0 +1,27 @@
+[buildPlans.IosevkaCustom]
+family = "Iosevka Custom"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
+
+[buildPlans.IosevkaCustom.variants.design]
+f = "flat-hook-tailed-crossbar-at-x-height"
+k = "cursive-serifless"
+r = "corner-hooked-top-serifed"
+z = "straight-serifless-with-horizontal-crossbar"
+lower-lambda = "straight-turn"
+seven = "straight-serifless-crossbar"
+asterisk = "penta-mid"
+underscore = "low"
+caret = "high"
+ascii-grave = "raised-turn-comma"
+ascii-single-quote = "raised-comma"
+paren = "normal"
+brace = "straight"
+at = "fourfold"
+percent = "rings-continuous-slash"
+bar = "natural-slope"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
